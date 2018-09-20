@@ -14,7 +14,4 @@ public class Fungsi_perkalian {
         System.out.println("perkalian tanpa looping = " +fungsiperkalian.perkalian(nilai, nilai2));
         System.out.println("perkalian dengan looping = " +fungsiperkalian.perkalian_looping(nilai, nilai2));
     }
-    //coba
-    //coba2
-    //coba3
 }
