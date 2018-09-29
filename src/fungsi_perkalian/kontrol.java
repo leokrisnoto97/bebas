@@ -2,6 +2,7 @@ package fungsi_perkalian;
 
 class kontrol {
 //tesssss
+    ///testt leo
     public int perkalian(int a, int b) {
         int jumlah = 0;
         jumlah = a * b;
